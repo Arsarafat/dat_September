@@ -30,7 +30,7 @@ from telegram.ext import (
 )
 
 # ============ Bot configuration ============
-BOT_TOKEN = "8791027904:AAF24D9_QX9ozjAo-EtLZT7fqo4gbCQagTw"
+BOT_TOKEN = "8851996240:AAEO3lCxPC-1SnLIcE1XuSKL9F3nPLI0yAo"
 API_ID = 30261902
 API_HASH = "1bf7aa58a278a68517272fcc247cb2df"
 SESSIONS_FILE = "sessions.txt"
