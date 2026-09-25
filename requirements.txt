@@ -1,0 +1,2 @@
+Telethon>=1.27.0
+python-telegram-bot>=20.0
